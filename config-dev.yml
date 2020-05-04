@@ -1,3 +1,4 @@
 server:
  port: 3344
-info: liqiqi
+config: 
+ info: liqiqi
